@@ -6,3 +6,6 @@ Some projects about the fundamentals of geopandas and shapely, which will be mos
 
 - **02_osm_gis**  
 Some projects about OSM (Open Street Map) and GIS (Geographic Informatioan System).
+
+- **03_basic_methods_and_visualization**
+Data preprocessing (filtering) and data visualization (using matplotlib, bar plot & cdf & box plot).
